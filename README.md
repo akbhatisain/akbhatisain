@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
-<h3 align="center">A above average learner, I have over 5+ years of experience in Infrastructure and administration side. To say that technology is a passion, is an understatement, as it is a love that has continuously helped me overcome obstacles, embrace challenges, and keep my career moving forward. I’ve had the opportunity to add a range of capabilities to my repertoire, including Advance Linux, Virtualisation, Troubleshooting, Docker, Kubernetes, Ansible automation, Cloud Computing, just to name a few.</h3>
+<h3 align="center">A above average learner, I have over 7+ years of experience in Infrastructure and administration side. To say that technology is a passion, is an understatement, as it is a love that has continuously helped me overcome obstacles, embrace challenges, and keep my career moving forward. I’ve had the opportunity to add a range of capabilities to my repertoire, including Advance Linux, Virtualisation, Troubleshooting, Docker, Kubernetes, Ansible automation, and Cloud Computing, just to name a few.</h3>
 
 - 🔭 I’m currently working on [Containerization](Docker,Kubernetes)
 
